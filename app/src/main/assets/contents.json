@@ -1,0 +1,46 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Kubistas",
+      "publisher": "@osmvk",
+      "tray_image_file": "kubo.png",
+      "publisher_email":"osmak@protonmail.com",
+      "publisher_website": "https://github.com/0smak",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "kubo.webp",
+          "emojis": ["🗑️","💩"]
+        },
+        {
+          "image_file": "pollo.webp",
+          "emojis": ["🐔","🍗"]
+        },
+        {
+          "image_file": "pollo-face.webp",
+          "emojis": ["🐔","😲"]
+        },
+        {
+          "image_file": "kubistas-duchense.webp",
+          "emojis": ["🚿","💩"]
+        },
+        {
+          "image_file": "kubistas-hdp.webp",
+          "emojis": ["🤬","😤"]
+        },
+        {
+          "image_file": "nug.webp",
+          "emojis": ["🍁","☘️"]
+        },
+        {
+          "image_file": "tabako-joako.webp",
+          "emojis": ["🚬","🔥"]
+        }
+      ]
+    }
+  ]
+}

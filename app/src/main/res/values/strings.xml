@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Kubistas Stickerpack</string>
+    <string name="tray_image_content_description">Sticker Pack Kubistas</string>
+    <string name="more_info_button">Stickers oficiales del kubismo</string>
+    <string name="add_to_whatsapp">Añadir a WhatsApp</string>
+    <string name="add_button_content_description">Añadir pack de stickers a WhatsApp</string>
+    <string name="title_activity_sticker_packs_list">Sticker Packs</string>
+    <string name="dot">•</string>
+    <string name="title_activity_sticker_pack_details_single_pack">Pack oficial de la secta Kubista</string>
+    <string name="title_activity_sticker_pack_details_multiple_pack">Detalles</string>
+    <string name="title_activity_sticker_pack_info">Informaçao</string>
+    <string name="view_webpage">GitHub</string>
+    <string name="send_email">Enviar email</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="error_adding_sticker_pack">"icho allo ab no se ha podido instalar esto. Instala la ultima version de whatsapp"</string>
+    <string name="error_message">Error: %s \nSee logcat for stack trace.</string>
+    <string name="title_validation_error">Error con el pack</string>
+    <string name="info_screen_tray_icon">Tray icon</string>
+    <string name="details_pack_already_added">Sticker pack sectarios añadido a tu WhatsApp ahora mas sectario</string>
+</resources>

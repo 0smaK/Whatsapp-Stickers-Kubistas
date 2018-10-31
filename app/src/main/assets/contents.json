@@ -3,41 +3,41 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-      "identifier": "1",
+      "identifier": "kubistas_sticker_pack",
       "name": "Kubistas",
       "publisher": "@osmvk",
       "tray_image_file": "kubo.png",
       "publisher_email":"osmak@protonmail.com",
-      "publisher_website": "https://github.com/0smak",
+      "publisher_website": "https://github.com/0smaK/Whatsapp-Stickers-Kubistas",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "kubo.webp",
+          "image_file": "01_kubo.webp",
           "emojis": ["🗑️","💩"]
         },
         {
-          "image_file": "pollo.webp",
+          "image_file": "02_pollo.webp",
           "emojis": ["🐔","🍗"]
         },
         {
-          "image_file": "pollo-face.webp",
+          "image_file": "03_pollo-face.webp",
           "emojis": ["🐔","😲"]
         },
         {
-          "image_file": "kubistas-duchense.webp",
+          "image_file": "04_kubistas-duchense.webp",
           "emojis": ["🚿","💩"]
         },
         {
-          "image_file": "kubistas-hdp.webp",
+          "image_file": "05_kubistas-hdp.webp",
           "emojis": ["🤬","😤"]
         },
         {
-          "image_file": "nug.webp",
+          "image_file": "06_nug.webp",
           "emojis": ["🍁","☘️"]
         },
         {
-          "image_file": "tabako-joako.webp",
+          "image_file": "07_tabako-joako.webp",
           "emojis": ["🚬","🔥"]
         }
       ]

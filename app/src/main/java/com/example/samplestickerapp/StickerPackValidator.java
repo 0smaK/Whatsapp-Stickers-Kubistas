@@ -74,7 +74,7 @@ public class StickerPackValidator {
             throw new IllegalStateException("Cannot open tray image, " + stickerPack.trayImageFile, e);
         }
         final List<Sticker> stickers = stickerPack.getStickers();
-        if (stickers.size() < STICKER_SIZE_MIN || stickers.size() > STICKER_SIZE_MAX) {
+        if (stickers.size() <= STICKER_SIZE_MIN || stickers.size() > STICKER_SIZE_MAX) {
             throw new IllegalStateException("sticker pack sticker count should be between 3 to 30 inclusive, it currently has " + stickers.size() + ", sticker pack identifier:" + stickerPack.identifier);
         }
         for (final Sticker sticker : stickers) {
